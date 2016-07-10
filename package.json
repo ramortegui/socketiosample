@@ -1,0 +1,10 @@
+{
+  "name": "express_chat_sample",
+  "version": "0.0.1",
+  "description": "Express Chat Example",
+  "main": "index.js",
+  "author": "Ruben Amortegui",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
